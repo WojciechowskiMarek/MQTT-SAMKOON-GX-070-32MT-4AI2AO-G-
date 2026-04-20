@@ -2,7 +2,7 @@
 # -----------------
 # paho-mqtt==2.1.0
 # amqtt==0.11.3
-#
+# python = 3.11
 # Install with: pip install -r requirements.txt
 # -----------------
 
